@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:context="http://www.springframework.org/schema/context"
+  xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+  <!-- annotation설정을 위해 추가-->
+  <context:annotation-config />
+
+<!--constructor-arg를 통해 의존 주입을 한다. currency는 WON으로 value는 20000을 주입-->
+  <bean id="Money" class="BankSystem.Money">
+    <constructor-arg value="WON"/>
+    <constructor-arg value="20000"/>
+  </bean>
+
+  <bean id="BankService" class="BankSystem.BankService"/>
+
+  <bean id="ExchangeFee" class="BankSystem.ExchangeFee" init-method="init">
+  </bean>
+
+</beans>
