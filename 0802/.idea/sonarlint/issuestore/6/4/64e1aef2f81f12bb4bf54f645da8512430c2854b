@@ -1,0 +1,23 @@
+
+b
+java:S2095&"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(Å±ğÑıÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í‘™:8ÆœĞ¦0
+\
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(Î€˜Ìúÿÿÿÿ
+X	java:S125/"<This block of commented-out lines of code should be removed.(ƒæœ„8öªàƒ¦0
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÿİÌ¦0
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÿİÌ¦0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8€ŞÌ¦0
+M
+java:S1128
+"0Remove this unused import 'java.io.InputStream'.(¹»º8ŞÌ¦0
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ŞÌ¦0
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8ŞÌ¦0
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ŞÌ¦0
