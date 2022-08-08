@@ -1,6 +1,4 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 Å
 Qsrc/main/java/com/nhnacademy/edu/springframework/project/repository/Students.java,8\6\86bca4853db8298831bce0dcab1fed155d791d47
 
@@ -19,15 +17,21 @@ Nsrc/main/java/com/nhnacademy/edu/springframework/project/repository/Score.java
 [src/main/java/com/nhnacademy/edu/springframework/project/service/DefaultStudentService.java,c\4\c4ee0c47f61af977b772e23cd07baf1e51664fa0
 Ç
 Rsrc/main/java/com/nhnacademy/edu/springframework/project/repository/Singleton.java,8\3\8304dbd69404743ce9bad8a2fae9bcc8baa29e53
-Ç
-Rsrc/main/java/com/nhnacademy/edu/springframework/project/repository/CsvScores.java,6\4\64e1aef2f81f12bb4bf54f645da8512430c2854b
 Ä
 Psrc/main/java/com/nhnacademy/edu/springframework/project/repository/Student.java,a\3\a3876a5b1d19f133e9629efc7732f6217f0bf09d
+Ñ
+Tsrc/main/java/com/nhnacademy/edu/springframework/project/repository/CsvStudents.java,4\b\4be0d667e7170f197d66dcf01774a253a6dd087e
+à
+Xsrc/main/java/com/nhnacademy/edu/springframework/project/service/CsvDataLoadService.java,6\b\6b08b223dbef8b1bbdb3c03125cd1e262e75b79c
+Ç
+Rsrc/main/java/com/nhnacademy/edu/springframework/project/repository/CsvScores.java,6\4\64e1aef2f81f12bb4bf54f645da8512430c2854b
 r
 Bsrc/main/java/com/nhnacademy/edu/springframework/project/Main.java,4\1\412d51437d98675b62bc05acbfebdfb8eb3a27ad
 Ö
 Usrc/main/java/com/nhnacademy/edu/springframework/project/service/DataLoadService.java,f\7\f7c7fd93cdca5c07c46b204b9ba1c98b6c3e6312
-à
-Xsrc/main/java/com/nhnacademy/edu/springframework/project/service/CsvDataLoadService.java,6\b\6b08b223dbef8b1bbdb3c03125cd1e262e75b79c
-Ñ
-Tsrc/main/java/com/nhnacademy/edu/springframework/project/repository/CsvStudents.java,4\b\4be0d667e7170f197d66dcf01774a253a6dd087e
+z
+Jsrc/test/java/com/nhnacademy/edu/springframework/project/getScoreTest.java,a\d\add1e6aa37b9cbb342b7304841626745345dabed
+Ä
+Psrc/main/java/com/nhnacademy/edu/springframework/project/service/JavaConfig.java,7\e\7e2839a955972304b628fcfe2f6c7c4a60bbf659
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

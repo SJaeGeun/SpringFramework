@@ -1,0 +1,9 @@
+
+‚
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "filePath".(½Üñ—ýÿÿÿÿ8ÅÅ¬¦§0
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(½Üñ—ýÿÿÿÿ
+O
+java:S1128"2Remove this unused import 'com.opencsv.CSVReader'.(‚á•Æ8ƒ‘éÈ§0
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ8ƒ‘éÈ§0

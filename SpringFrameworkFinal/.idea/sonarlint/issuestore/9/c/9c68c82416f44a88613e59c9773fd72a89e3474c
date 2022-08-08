@@ -1,0 +1,18 @@
+
+J
+java:S1066="/Merge this if statement with the enclosing one.(ë¦Ôİûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ãı‡Á
+]
+java:S2095,"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(ÇÁ‘ù
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8€éäÛ§0
+H
+java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é8€éäÛ§0
+Y
+java:S1128"7Remove this unused import 'org.json.simple.JSONObject'.(‚ƒç‘ÿÿÿÿÿ8€éäÛ§0
+[
+java:S1128">Remove this unused import 'org.json.simple.parser.JSONParser'.(õø²¹8éäÛ§0
+_
+java:S1128"BRemove this unused import 'org.json.simple.parser.ParseException'.(ƒÁ‡8éäÛ§0
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8éäÛ§0

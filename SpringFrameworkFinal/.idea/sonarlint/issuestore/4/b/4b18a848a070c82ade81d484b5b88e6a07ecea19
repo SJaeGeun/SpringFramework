@@ -1,0 +1,8 @@
+
+J
+java:S10668"/Merge this if statement with the enclosing one.(ë¦ÔÝûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùäÔ¢
+H
+java:S1128"2Remove this unused import 'com.opencsv.CSVReader'.(‚á•Æ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ

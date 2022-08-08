@@ -39,6 +39,7 @@ public class CsvScores implements Scores {
         String[] studentScore;
 
         while((studentScore = studentCSV.readNext()) !=null){
+            System.out.println(studentScore[0]);
             for(int i = 0; i<studentScore.length; i+=2){
                 scores.add(new Score(Integer.parseInt(studentScore[i]),
                     Integer.parseInt(studentScore[i+1])));
